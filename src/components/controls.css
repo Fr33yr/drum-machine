@@ -14,6 +14,10 @@
     background-color: gray;
 }
 
+.volume-slider{
+    background: darkgray;
+}
+
 #display{
     background: lightgray;
     border: 2px solid orangered;
