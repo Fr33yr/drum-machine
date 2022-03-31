@@ -30,3 +30,15 @@ code {
   justify-content: center;
   margin: 10vh 0 10vh 0;
 }
+
+footer{
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  text-align: center;
+  font-size: 2rem;
+}
+
+a{
+  color: wheat;
+  text-decoration: none;
+}

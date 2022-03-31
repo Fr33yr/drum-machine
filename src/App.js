@@ -11,6 +11,8 @@ function App() {
 
         <Controls/>
       </div>
+
+      <footer><a href='https://github.com/Fr33yr/drum-machine' target={"_blank"} rel={"noopener noreferrer"}>Code</a></footer>
     </Fragment>
   );
 }
